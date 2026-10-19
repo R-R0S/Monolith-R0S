@@ -50,7 +50,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: grid
+      name: irida
     - type: Transform
       pos: -0.5,-0.41139728
       parent: invalid
